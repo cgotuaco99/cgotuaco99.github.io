@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chris Gotuaco
 
 You can use the [editor on GitHub](https://github.com/cgotuaco99/cgotuaco99.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
