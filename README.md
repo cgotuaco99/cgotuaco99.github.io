@@ -7,8 +7,13 @@ I'm a recent grad of the University of Notre Dame, where I majored in Economics 
 
 
 
-### My Projects
+## My Projects
 
-#### Riyadh Visualization
+### Riyadh Visualization
+[Link to Tableau Visualization](https://public.tableau.com/app/profile/christopher.gotuaco#!/?newProfile=&activeTab=0)  
 
-#### Twitter Stocks Prediction
+I built this dashboard using Google review data and Python to help businesses identify potential locations that would maximize profit.  
+This involved cleaning the review data, creating consumer personas, and visualizing it in Tableau, also displaying trends in topics mentioned and positive/negative reviews over time.
+
+
+### Twitter Stocks Prediction
