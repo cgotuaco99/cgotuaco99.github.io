@@ -14,7 +14,7 @@ I'm a recent grad of the University of Notre Dame, where I majored in Economics 
 
 I built this dashboard using Google review data and Python to help businesses identify potential locations that would maximize profit. This involved cleaning the review data, creating consumer personas, and visualizing the data in Tableau, including displaying trends in topics mentioned and positive/negative reviews over time.
 
-### Startup Website Data Scraping Project	Present
+### Startup Website Data Scraping Project	
 This project involves scraping data and describing trends for businesses registered on [Magnitt](https://magnitt.com/), a website with data on startups across the Middle East, Africa, Pakistan, Turkey and more. This involves determining the total number of startups, financing details, and the size of deals by country and sector.
 
 ### Twitter Stocks Prediction
