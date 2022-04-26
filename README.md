@@ -21,3 +21,6 @@ In this project I am working to determine the accuracy of groups of Stocktwits u
 
 ### Housing Policy Memo
 https://drive.google.com/file/d/1O35NHlktsOenVM8wV_xeEWdYwgElDvbE/view?usp=sharing
+
+### Minimum Wage Policy Research Presentation
+https://drive.google.com/file/d/1CwLztvnHGri9vc56xZLWrv01Gx7zmOBy/view?usp=sharing
