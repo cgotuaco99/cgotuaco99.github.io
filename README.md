@@ -7,7 +7,8 @@ I'm a recent grad of the University of Notre Dame, where I majored in Economics 
 
 ### Google Review Data Visualization
 
-[Link](https://public.tableau.com/app/profile/christopher.gotuaco#!/?newProfile=&activeTab=0)  
+[Link](https://public.tableau.com/app/profile/christopher.gotuaco/viz/ReviewDataDashboard/TopicsinRiyadhMap)
 
-I built this dashboard using Google review data and Python to help businesses identify potential locations that would maximize profit. This involved cleaning the review data, creating consumer personas, and visualizing the data in Tableau, including displaying trends in topics mentioned and positive/negative reviews over time.
+For this project for a data analytics organization, I used Python to consolidate and clean separate data sources containing over 50k distinct Google user reviews from different businesses. These reviewers were mostly from the Middle East and the US. Through analysis of this data, I identified distinct sentiment themes based on topics mentioned in their reviews, and I assigned these themes to each user ID.
 
+I then used this data to develop a geospatial dashboard in Tableau, where business leaders can see clusters of potential customers that fit their target demographic. They can then identify potential new locations to consider as they expand.
