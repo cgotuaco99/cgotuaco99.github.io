@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -153,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Python">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SQL">SQL <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -166,7 +166,10 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1666076400000" data-listing-file-modified-sort="1668027697501" data-listing-reading-time-sort="2.075">
+<div class="quarto-post image-right" data-index="0" data-categories="SQL,Python" data-listing-date-sort="1666076400000" data-listing-file-modified-sort="1668028030865" data-listing-reading-time-sort="2.075">
+<div class="thumbnail">
+<p><a href="./posts/NBASQL/2022-11-09-NBA_SQL_Analysis.html"> <img src="./posts/NBASQL/kareemwilt.jpg" class="thumnail-image"> </a></p>
+</div>
 <div class="body">
 <a href="./posts/NBASQL/2022-11-09-NBA_SQL_Analysis.html">
 <h3 class="no-anchor listing-title">
@@ -175,6 +178,16 @@ NBA SQL Analysis
 <div class="listing-subtitle">
 
 </div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('SQL'); return false;">
+SQL
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+</div>
+<a href="./posts/NBASQL/2022-11-09-NBA_SQL_Analysis.html">
 <div class="listing-description">
 In this project, I’ll see if I can identify when NBA players have tended to reach their primes. I will be running SQL commands through pandasql in Python.
 </div>
