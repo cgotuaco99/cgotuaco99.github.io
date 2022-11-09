@@ -16,6 +16,8 @@ I then used this data to develop a geospatial dashboard in Tableau, where busine
 
 ### NBA Player Primes
 
+[Link](NBA_SQL_Analysis.ipynb)
+
 I sought out to determine if NBA players’ primes could be identified and quantified. This was done using a SQL database containing data on around 4500 players throughout NBA history. I wanted to see whether player position, height, and weight had an impact on these metrics. I found that players peak around the ages of 26-27 with 4-5 years of experience, using statistics such as Player Efficiency Rating.
 
 
