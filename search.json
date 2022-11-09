@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "posts/DataViz/2022-11-09-dataviz.html",
-    "href": "posts/DataViz/2022-11-09-dataviz.html",
+    "objectID": "posts/DataViz/2022-11-01-dataviz.html",
+    "href": "posts/DataViz/2022-11-01-dataviz.html",
     "title": "Google Review Visualization",
     "section": "",
-    "text": "Analyzing and visualizing sentiments from customer reviews\nFor this project for a data analytics organization, I used Python to consolidate and clean separate data sources containing over 50k distinct Google user reviews from different businesses. These reviewers were mostly from the Middle East and the US. Through analysis of this data, I identified 10 distinct customer sentiment themes based on topics mentioned in their reviews.\nI then used this data to develop a geospatial dashboard in Tableau, where business leaders can see clusters of potential customers that fit their target demographic. They can then identify potential new locations to consider as they expand."
+    "text": "Analyzing and visualizing sentiments from customer reviews\nFor this project for a data analytics organization, I used Python to consolidate and clean separate data sources containing over 50k distinct Google user reviews from different businesses. These reviewers were mostly from the Middle East and the US.\nUsing this data, my supervisor and I attempted to determine aspects such as the user’s home country based on times they visit certain areas, whether the customer was a first time visitor of an area, and if the user was into hobbies such as hiking. These were based on topics pre-determined by a NLP model, the user text and location data, and how many times a user is associated with certain topics and words. Through analysis of this data, we identified 10 distinct customer sentiment themes based on topics mentioned in their reviews.\nI then used this data to develop a geospatial dashboard in Tableau, where business leaders can see clusters of potential customers that fit their target demographic. They can then identify potential new locations to consider as they expand.\nYou can view the dashboard here."
   },
   {
     "objectID": "posts/datetest2/2022-11-01-datetest2.html",
