@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cgotuaco99.github.io/posts/DataViz/2022-11-09-dataviz.html</loc>
+    <lastmod>2022-11-09T21:58:40.292Z</lastmod>
+  </url>
+  <url>
     <loc>https://cgotuaco99.github.io/posts/datetest2/2022-11-01-datetest2.html</loc>
-    <lastmod>2022-11-09T21:41:10.154Z</lastmod>
+    <lastmod>2022-11-09T21:58:41.067Z</lastmod>
   </url>
   <url>
     <loc>https://cgotuaco99.github.io/posts/NBASQL/2022-11-09-NBA_SQL_Analysis.html</loc>
-    <lastmod>2022-11-09T21:41:10.748Z</lastmod>
+    <lastmod>2022-11-09T21:58:41.589Z</lastmod>
   </url>
   <url>
     <loc>https://cgotuaco99.github.io/index.html</loc>
-    <lastmod>2022-11-09T21:41:11.764Z</lastmod>
+    <lastmod>2022-11-09T21:58:42.572Z</lastmod>
   </url>
   <url>
     <loc>https://cgotuaco99.github.io/about.html</loc>
-    <lastmod>2022-11-09T21:41:12.071Z</lastmod>
+    <lastmod>2022-11-09T21:58:42.894Z</lastmod>
   </url>
 </urlset>

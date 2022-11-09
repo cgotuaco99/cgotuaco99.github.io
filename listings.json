@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/DataViz/2022-11-09-dataviz.html",
       "/posts/datetest2/2022-11-01-datetest2.html",
       "/posts/NBASQL/2022-11-09-NBA_SQL_Analysis.html"
     ]
